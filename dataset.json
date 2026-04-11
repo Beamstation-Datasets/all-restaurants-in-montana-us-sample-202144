@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Statewide restaurant dataset covering all active listings across Montana. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Montana, US",
+  "export_job_id": "a538a84c-64bc-416e-8977-d1684d03c2b9",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 202144,
+  "location_name": "Montana",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-montana-us-sample-202144",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/202144/beamstation_202144_restaurants-us-mt_SAMPLE_DIST.csv",
+  "sample_pct": 2.37,
+  "sample_records": 50,
+  "sample_sha256": "b4b039dd9461cc3f62ffb4a04cf6ff2377c3de0754dad3d648c9d7ca6799ce80",
+  "sample_size_bytes": 214534,
+  "total_records": 2110,
+  "updated_at": "2026-03-31T16:05:26.432072+00:00"
+}
