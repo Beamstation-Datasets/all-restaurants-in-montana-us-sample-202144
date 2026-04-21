@@ -1,6 +1,6 @@
 # All Restaurants in Montana, US
 
-> Free BeamStation sample export with 261 rows and masked direct-contact fields.
+> Free BeamStation sample export with 179 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `202144` |
 | Location | Montana |
 | Category | Restaurants |
-| Full dataset size | 2,610 records |
-| Free sample size | 261 records (10.0%) |
-| Last export | 2026-04-14T17:02:47.894718+00:00 |
+| Full dataset size | 1,793 records |
+| Free sample size | 179 records (9.98%) |
+| Last export | 2026-04-21T18:41:13.990328+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-montana-us-sample-202144/releases/download/sample-latest/beamstation_202144_restaurants-us-mt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
