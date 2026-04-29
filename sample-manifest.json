@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d8b0adb3-3363-4351-bff0-5f3acf8a1bc2",
+  "export_job_id": "efcedac7-9e62-47d1-9fa2-7526a0d0b7fa",
   "id_short": 202144,
-  "published_at": "2026-04-21T19:09:40Z",
+  "published_at": "2026-04-29T07:05:11Z",
   "repo_name": "all-restaurants-in-montana-us-sample-202144",
   "sample_asset_name": "beamstation_202144_restaurants-us-mt_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/202144/beamstation_202144_restaurants-us-mt_SAMPLE_DIST.csv",
-  "sample_records": 179,
-  "sample_sha256": "849e958e553496a4aadb2d9f8489ba904cf233f5bb7468e5575c9110f4159ac6",
-  "sample_size_bytes": 480829,
-  "total_records": 1793
+  "sample_records": 263,
+  "sample_sha256": "8cd5f52bf07cebb20f1f5af6546efe18a5dda4692b0fc0046f1e16fa080c1d0d",
+  "sample_size_bytes": 820341,
+  "total_records": 2632
 }
